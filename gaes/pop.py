@@ -1,6 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn
 
 plt.rcParams['figure.figsize'] = 16, 13
 
